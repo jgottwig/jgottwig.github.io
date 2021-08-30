@@ -27,7 +27,7 @@ twitter_username: jgottwig
 github_username: jgottwig 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
