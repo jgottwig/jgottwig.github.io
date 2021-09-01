@@ -37,7 +37,7 @@ header_pages:
  - about.markdown
 
 minima:
-  skin: dark
+  skin: solarised
 
 # Exclude from processing.
 # The following items will not be processed, by default.
