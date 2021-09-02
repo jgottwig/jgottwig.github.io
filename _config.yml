@@ -20,7 +20,7 @@
 
 title: StrangeShuttle
 description: >- # this means to ignore newlines until "baseurl:"
-  StrangeShuttle description here. <img src="images/strangeshuttlelogo2_sm.png" style="width: 100px; float: right;" /> 
+  StrangeShuttle description here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jgottwig
