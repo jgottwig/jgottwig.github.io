@@ -4,8 +4,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <div style="float: left; width: 60px;">
-      <img src="images/strangeshuttlelogo2.svg" alt="spaceship with eyes logo" />
+    <div style="float: left; width: 60px; height: 60px;">
+      <img src="images/strangeshuttlelogo2.svg" style="width: 100%" alt="spaceship with eyes logo" />
     </div>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
