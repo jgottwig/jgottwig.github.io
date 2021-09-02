@@ -4,5 +4,5 @@
 
 layout: home
 ---
-![image](images/strangeshuttlelogo2_sm.png){: style="float: right; width: 150px;"}
+![image](images/strangeshuttlelogo2_sm.png){: style="float: right; width: 200px; margin-left: 5px; margin-bottom: 5px;"}
 Testing content
