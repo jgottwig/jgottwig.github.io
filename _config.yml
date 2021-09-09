@@ -23,13 +23,45 @@ description: >- # this means to ignore newlines until "baseurl:"
   StrangeShuttle description here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jgottwig
-github_username: jgottwig 
+twitter:
+  username: jgottwig
+
+markdown: kramdown
+feed:
+  path: atom.xml
+
+author:
+  name: J. Matthew Gottwig
+  twitter: jgottwig
+  links:
+  - title: Twitter
+    url: https://twitter.com/jgottwig
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/jgottwig
+    icon: fab fa-github-square
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/jgottwig
+    icon: fab fa-twitter-square
+  - title: Github
+    url: https://github.com/jgottwig
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+logo:"/images/strangeshuttlelogo2.svg"
+locale: en-US
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
