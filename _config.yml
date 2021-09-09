@@ -39,6 +39,15 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+
 author:
   name: J. Matthew Gottwig
   twitter: jgottwig
@@ -64,7 +73,6 @@ footer_links:
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 logo: "/images/strangeshuttlelogo2.svg"
-skin: "/assets/css/skins/dark.css"
 locale: en-US
 
 plugins:
