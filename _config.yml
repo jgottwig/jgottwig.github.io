@@ -27,7 +27,7 @@ twitter_username: jgottwig
 github_username: jgottwig 
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
@@ -35,9 +35,6 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.markdown
-
-minima:
-  skin: solarised
 
 # Exclude from processing.
 # The following items will not be processed, by default.
