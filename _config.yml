@@ -70,6 +70,8 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
+category_archive_path: "/categories/#"
+
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 logo: "/images/strangeshuttlelogo2.svg"
