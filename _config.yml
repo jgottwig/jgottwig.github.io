@@ -30,6 +30,9 @@ markdown: kramdown
 feed:
   path: atom.xml
 
+paginate: 10
+paginate_path: /page:num/
+
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -61,6 +64,7 @@ footer_links:
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 logo: "/images/strangeshuttlelogo2.svg"
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 
 plugins:
