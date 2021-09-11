@@ -38,6 +38,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Fauna One"
     weights: "400"
+  - name: "VT323"
+    weights: "400"
 
 defaults:
   - scope:
