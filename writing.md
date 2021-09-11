@@ -1,9 +1,8 @@
 ---
 title: Writing 
-layout: collection 
-collection: writing 
+layout: collection
 permalink: /writing/
-entries_layout: list
-sort_by: title
+entries_layout: grid
+collection: writing
 ---
-Writing here...
+writing here...
