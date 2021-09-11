@@ -34,9 +34,9 @@ paginate: 10
 paginate_path: /page:num/
 
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Ubuntu"
     weights: "400,400i,700,700i"
-  - name: "Lora"
+  - name: "VT323"
     weights: "400,400i,700,700i"
 
 defaults:
