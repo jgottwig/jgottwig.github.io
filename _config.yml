@@ -43,12 +43,24 @@ google_fonts:
 
 defaults:
   - scope:
-      path: "_posts"
-      type: posts
+      path: "_games"
+      type: games
     values:
-      layout: post
+      layout: page
       comments: true
       share: true
+  - scope:
+      path: "_writing"
+      type: writing
+    values:
+      layout: page
+      comments: true
+      share: true
+
+collections:
+  games:
+    output: true
+    permalink: /:collection/:path/
 
 author:
   name: J. Matthew Gottwig
