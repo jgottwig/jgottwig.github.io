@@ -2,7 +2,6 @@
 layout: post 
 title: About
 permalink: /about/
-image: /images/atg_skiing.jpg
 ---
 ![](images/atg_skiing.jpg)
 
