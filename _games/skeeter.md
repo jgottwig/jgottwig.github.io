@@ -1,7 +1,7 @@
 ---
 title: "Skeeter's Grid"
 image:
-  path: /images/games/skeeters-grid.png
+  path: /images/games/skeeters-grid-banner.png
   thumbnail: /images/games/skeeters-grid-thumb.png
   caption: "Skeeter's Grid"
 ---
