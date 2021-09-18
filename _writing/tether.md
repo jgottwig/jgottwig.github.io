@@ -1,3 +1,5 @@
 ---
 title: "Tether"
+categories:
+  - writing
 ---
