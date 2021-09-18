@@ -5,10 +5,12 @@ image:
   path: /images/writing/tether-banner.jpg
   thumbnail: /images/writing/tether-thumbnail.png
 ---
-## Publication History
-* Gottwig, J. Matthew. "Tether." *Cutbank* 89 (2019): 33-52
+### Publication History
+- Gottwig, J. Matthew. "Tether." *Cutbank* 89 (2019): 33-52
 
 *(Winner 2018 Montana Fiction Prize)*
+
+---
 
 When the rattlesnake bites Jack, his mother prays, *Please Lord Jesus, draw the venom from my boy; bring the color of life back into his skin; keep him breathing, Lord Jesus, keep my boy alive!*
 
