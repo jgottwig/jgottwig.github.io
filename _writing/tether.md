@@ -5,9 +5,7 @@ image:
   path: /images/writing/tether-banner.jpg
   thumbnail: /images/writing/tether-thumbnail.png
 ---
-### Publication History
-- Gottwig, J. Matthew. "Tether." *Cutbank* 89 (2019): 33-52
-
+Gottwig, J. Matthew. "Tether." *Cutbank* 89 (2019): 33-52
 *(Winner 2018 Montana Fiction Prize)*
 
 ---
