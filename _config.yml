@@ -27,11 +27,6 @@ twitter:
   username: jgottwig
 
 markdown: kramdown
-feed:
-  path: atom.xml
-  categories:
-    - writing
-    - games
 
 paginate: 10
 paginate_path: /page:num/
