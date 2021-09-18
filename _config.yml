@@ -74,6 +74,9 @@ author:
   - title: GitHub
     url: https://github.com/jgottwig
     icon: fab fa-github-square
+  - title: Itch.io
+    url: https://itch.io/strangeshuttle
+    icon: fab fab-itch-io
 
 footer_links:
   - title: Twitter
@@ -82,9 +85,9 @@ footer_links:
   - title: Github
     url: https://github.com/jgottwig
     icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Itch.io
+    url: https://itch.io/strangeshuttle
+    icon: fas fa-itch-io
 
 category_archive_path: "/categories/#"
 
