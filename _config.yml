@@ -88,6 +88,9 @@ footer_links:
   - title: Itch.io
     url: https://itch.io/strangeshuttle
     icon: fab fa-itch-io
+  - title: Steam
+    url: https://itch.io/strangeshuttle
+    icon: fab fa-steam-square
 
 category_archive_path: "/categories/#"
 
