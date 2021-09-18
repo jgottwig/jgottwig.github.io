@@ -1,5 +1,5 @@
 ---
-title: "Tether"
+title: "&quot;Tether&quot;"
 categories:
   - writing
 layout: post
