@@ -76,7 +76,7 @@ author:
     icon: fab fa-github-square
   - title: Itch.io
     url: https://itch.io/strangeshuttle
-    icon: fa-brands fa-itch-io
+    icon: fab fa-itch-io
 
 footer_links:
   - title: Twitter
@@ -87,7 +87,7 @@ footer_links:
     icon: fab fa-github-square
   - title: Itch.io
     url: https://itch.io/strangeshuttle
-    icon: fa-brands fa-itch-io
+    icon: fab fa-itch-io
 
 category_archive_path: "/categories/#"
 
