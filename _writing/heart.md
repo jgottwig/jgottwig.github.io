@@ -25,3 +25,8 @@ Across the fort, Portugee Phillips stopped splitting logs.  He dropped his axe, 
 The first of the army scouts returned near twilight.
 
 ...
+
+---
+### Full text available at:
+- Intergalactic Medicine Show (link)
+- Openseas NFT (link)

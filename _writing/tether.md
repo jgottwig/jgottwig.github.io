@@ -22,3 +22,7 @@ But Katie is having none of this and pulls those linens back!
 But there Jack is, reaching for the sky.
 
 ...
+
+---
+### Full text available at:
+- Openseas NFT (link)
