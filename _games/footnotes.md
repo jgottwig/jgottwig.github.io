@@ -5,7 +5,7 @@ image:
   path: /images/writing/footnotes-banner.jpg
   thumbnail: /images/writing/footnotes-thumbnail.png
 ---
-First appeared in *sub-Q Magazine*
+IF first appeared in *sub-Q Magazine*
 
 ---
 
