@@ -4,6 +4,7 @@ layout: post
 image:
   path: /images/writing/footnotes-banner.jpg
   thumbnail: /images/writing/footnotes-thumbnail.png
+permalink: /games/footnotes-in-ashes/
 ---
 IF first appeared in *sub-Q Magazine*
 
