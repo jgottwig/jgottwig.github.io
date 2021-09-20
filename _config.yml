@@ -48,8 +48,8 @@ defaults:
       comments: true
       share: true
   - scope:
-      path: "_writing"
-      type: writing
+      path: "_fiction"
+      type: fiction 
     values:
       layout: page
       comments: true
@@ -66,7 +66,7 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
-  writing:
+  fiction:
     output: true
     permalink: /:collection/:path/
   poetry:

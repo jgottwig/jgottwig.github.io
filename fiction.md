@@ -1,9 +1,9 @@
 ---
-title: Stories I've Written
+title: My Fiction 
 layout: collection
-permalink: /writing/
+permalink: /fiction/
 entries_layout: grid
-collection: writing
+collection: fiction 
 image:
   path: /images/writing/banner.jpg
 ---
