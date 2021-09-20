@@ -54,12 +54,22 @@ defaults:
       layout: page
       comments: true
       share: true
+  - scope:
+      path: "_poetry"
+      type: poetry
+    values:
+      layout: page
+      comments: true
+      share: true
 
 collections:
   games:
     output: true
     permalink: /:collection/:path/
   writing:
+    output: true
+    permalink: /:collection/:path/
+  poetry:
     output: true
     permalink: /:collection/:path/
 
