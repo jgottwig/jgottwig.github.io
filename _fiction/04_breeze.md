@@ -4,6 +4,7 @@ layout: post
 image:
   path: /images/writing/cat-banner.jpg
   thumbnail: /images/writing/cat-thumbnail.png
+permalink: /fiction/sudden-breeze-open-door
 ---
 First appeared in *In A Cat's Eye* anthology.
 

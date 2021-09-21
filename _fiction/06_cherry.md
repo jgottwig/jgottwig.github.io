@@ -4,6 +4,7 @@ layout: post
 image:
   path: /images/writing/highway-banner.jpg
   thumbnail: /images/writing/highway-thumbnail.png
+permalink: /fiction/cherry
 ---
 First appeared in *Cutbank Online*
 

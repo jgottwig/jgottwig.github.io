@@ -4,6 +4,7 @@ layout: post
 image:
   path: /images/writing/tower-banner.jpg
   thumbnail: /images/writing/tower-thumbnail.png
+permalink: /fiction/those-who-abandon-themselves
 ---
 First appeared in *Hides the Dark Tower* anthology.
 

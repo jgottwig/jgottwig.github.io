@@ -4,6 +4,7 @@ layout: post
 image:
   path: /images/writing/heart-banner.jpg
   thumbnail: /images/writing/heart-thumbnail.png
+permalink: /fiction/heart-in-hand
 ---
 First appeared in *the Intergalactic Medicine Show*
 
