@@ -19,4 +19,4 @@ But you know the cat will catch you if you reveal yourself.  She will try and sn
 ...
 ---
 ### Full text available at:
-- ["In a Cat's Eye"](https://www.amazon.com/dp/1941559123)
+- [*In a Cat's Eye*](https://www.amazon.com/dp/1941559123)
