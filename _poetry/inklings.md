@@ -4,7 +4,7 @@ layout: post
 image:
   path: /images/writing/writers-banner.jpg
   thumbnail: /images/writing/writers-thumbnail.png
-  caption: "Writers on the drive to the Nebula awards!"
+  caption: "Writers driving to the Nebula awards!"
 permalink: /poetry/warm-thick-beer
 ---
 *Nominated for the Rhysling Award...*
