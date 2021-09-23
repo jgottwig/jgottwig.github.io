@@ -6,6 +6,7 @@ image:
   thumbnail: /images/writing/ice-thumbnail.png
 permalink: /poetry/home
 ---
+```
 Back home
 again.  Branches peer through 
 twisted optics:
@@ -45,5 +46,6 @@ in some tight stasis
 that blurs the light 
 through the lens
 between the leaves.
+```
 ---
 [VC](https://github.com/jgottwig/thoughts-ruminations/blob/master/home)
