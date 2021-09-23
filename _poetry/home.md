@@ -10,7 +10,7 @@ permalink: /poetry/home
 again.  Branches peer through 
 twisted optics:
 leaves preserved in 
-rain gone stone.*
+rain gone stone...*
 
 ---
 ```
