@@ -8,4 +8,4 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-Information about Skeeter's Grid
+Details about Skeeter's Grid are incoming.
