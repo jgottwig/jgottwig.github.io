@@ -85,7 +85,7 @@ author:
     url: https://github.com/jgottwig
     icon: fab fa-github-square
   - title: Itch.io
-    url: https://itch.io/strangeshuttle
+    url: https://strangeshuttle.itch.io/
     icon: fab fa-itch-io
 
 footer_links:
@@ -96,7 +96,7 @@ footer_links:
     url: https://github.com/jgottwig
     icon: fab fa-github-square
   - title: Itch.io
-    url: https://itch.io/strangeshuttle
+    url: https://strangeshuttle.itch.io/
     icon: fab fa-itch-io
   - title: Steam
     url: https://itch.io/strangeshuttle
