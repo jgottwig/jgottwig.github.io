@@ -15,5 +15,4 @@ Dad was always a body man. Mom said calling him dad would bring us closer, and s
 ...
 ---
 ### Full text available at:
-- Cutbank Online (link)
-- Openseas NFT
+- [Cutbank Online](http://www.cutbankonline.org/weekly-flash-prose-and-prose-poetry/2020/9/weekly-flash-prose-and-prose-poetry-cherry-by-j-matthew-gottwig)

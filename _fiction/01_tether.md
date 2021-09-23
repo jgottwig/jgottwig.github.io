@@ -26,5 +26,4 @@ But there Jack is, reaching for the sky.
 
 ---
 ### Full text available at:
-- Cutbank (link to journal)
-- Openseas NFT (link)
+- [Cutbank 89](https://scholarworks.umt.edu/cutbank/vol1/iss89/)
