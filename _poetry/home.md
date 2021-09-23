@@ -6,11 +6,11 @@ image:
   thumbnail: /images/writing/ice-thumbnail.png
 permalink: /poetry/home
 ---
-Back home
+*Back home
 again.  Branches peer through 
 twisted optics:
 leaves preserved in 
-rain gone stone.
+rain gone stone.*
 
 ---
 ```
