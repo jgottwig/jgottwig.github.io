@@ -23,5 +23,4 @@ The wind laughed on its way down the mountain and across the frozen lake.
 ...
 ---
 ### Full text available at:
-- Amazon (link)
-- Openseas NFT
+- [Hides the Dark Tower anthology](https://www.amazon.com/Hides-Dark-Tower-Richard-Chizmar-ebook/dp/B015HKC5RS)

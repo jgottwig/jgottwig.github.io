@@ -6,7 +6,7 @@ image:
   thumbnail: /images/writing/cat-thumbnail.png
 permalink: /fiction/sudden-breeze-open-door
 ---
-First appeared in *In A Cat's Eye* anthology.
+First appeared in *In a Cat's Eye* anthology.
 
 ---
 
@@ -19,5 +19,4 @@ But you know the cat will catch you if you reveal yourself.  She will try and sn
 ...
 ---
 ### Full text available at:
-- Amazon (link)
-- Openseas NFT
+- ["In a Cat's Eye"](https://www.amazon.com/dp/1941559123)
