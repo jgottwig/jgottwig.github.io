@@ -2,7 +2,7 @@
 title: Some Poetry
 layout: collection
 permalink: /poetry/
-entries_layout: list
+entries_layout: grid
 collection: poetry
 image:
   path: /images/writing/poetry-banner.jpg
