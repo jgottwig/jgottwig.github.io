@@ -13,7 +13,7 @@ From here on out, I imagine I'll bounce between writing, interactive fiction, an
 
 ### Site Credits:
 * Logo by amazing artist and all-around great guy [Bryan Ballinger](https://www.breadwig.com/).
-* Homepage watercolor by my son, August Theodor
+* Homepage watercolor by my son
 * Site engine: [Jekyll](https://jekyllrb.com/); theme: [So Simple](https://github.com/mmistakes/so-simple-theme); hosting: [Github Pages](https://pages.github.com/)
 * All other art, writing, photography: me (unless otherwise credited)
 
