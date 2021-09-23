@@ -29,4 +29,4 @@ The first of the army scouts returned near twilight.
 
 ---
 ### Full text available at:
-- [Intergalactic Medicine Show](http://www.intergalacticmedicineshow.com/cgi-bin/mag.cgi?do=issue&vol=i54&article=_002]
+- [Intergalactic Medicine Show](http://www.intergalacticmedicineshow.com/cgi-bin/mag.cgi?do=issue&vol=i54&article=_002)
