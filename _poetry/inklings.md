@@ -7,10 +7,7 @@ image:
   caption: "Writers on the drive to the Nebula awards!"
 permalink: /poetry/warm-thick-beer
 ---
-*Beneath grey spires
-Sits a tiny pub of chalk-stone walls,
-Dry wooden posts made marble pillars,
-Shelves with bottles, green and brown...*
+*Nominated for the Rhysling Award...*
 
 ---
 ```
