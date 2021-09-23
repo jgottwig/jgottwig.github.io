@@ -5,8 +5,12 @@ image:
   path: /images/writing/writers-banner.jpg
   thumbnail: /images/writing/writers-thumbnail.png
   caption: "Writers on the drive to the Nebula awards!"
-permalink: /poetry/home
+permalink: /poetry/warm-thick-beer
 ---
+*Beneath grey spires
+Sits a tiny pub of chalk-stone walls,
+Dry wooden posts made marble pillars,
+Shelves with bottles, green and brown...*
 
 ---
 ```
