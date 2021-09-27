@@ -10,6 +10,6 @@ permalink: /games/skeeters-grid/
 ---
 *Skeeter's Grid* is an upcoming isometric puzzler.
 
-Release plans are incoming.
+Release plans are incoming but moving forward.
 
 ![Skeeter's Grid rotate gif](/images/games/Skeeters_Grid-cube_rotate.gif)
