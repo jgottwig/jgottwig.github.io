@@ -8,4 +8,8 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-Details about *Skeeter's Grid* are incoming.
+*Skeeter's Grid* is an upcoming isometric puzzler.
+
+Release plans are incoming.
+
+![Skeeter's Grid rotate gif](/images/games/Skeeters_Grid-cube_rotate.gif)
