@@ -7,5 +7,4 @@ image:
   thumbnail: /images/games/changelog-thumb.png
 permalink: /games/skeeters-grid-changelog/ 
 ---
-*In Active Development*
----
+This will be updated once the game enters alpha.
