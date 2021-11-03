@@ -21,5 +21,3 @@ In Skeeter's Grid, not all bugs are bad!
 * Addictive: Bonus achievements for using every circuit on the board. Or just burn through if that's your preference. It's up to you.
 * Collect: Gather up the components you'll need to rebuild the other bots and secure the grid.
 * Organic: Dynamically generated music augmented by by player interaction. Can't record this soundtrack!
-
-![Skeeter's Grid rotate apng](/images/games/Skeeters_Grid-cube_rotate.png)
