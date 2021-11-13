@@ -84,9 +84,9 @@ author:
   - title: GitHub
     url: https://github.com/jgottwig
     icon: fab fa-github-square
-  - title: Itch.io
-    url: https://strangeshuttle.itch.io/
-    icon: fab fa-itch-io
+#   - title: Itch.io
+#     url: https://strangeshuttle.itch.io/
+#     icon: fab fa-itch-io
 
 footer_links:
   - title: Twitter
@@ -95,12 +95,12 @@ footer_links:
   - title: Github
     url: https://github.com/jgottwig
     icon: fab fa-github-square
-  - title: Itch.io
-    url: https://strangeshuttle.itch.io/
-    icon: fab fa-itch-io
-  - title: Steam
-    url: https://itch.io/strangeshuttle
-    icon: fab fa-steam-square
+#   - title: Itch.io
+#     url: https://strangeshuttle.itch.io/
+#     icon: fab fa-itch-io
+#   - title: Steam
+#     url: https://itch.io/strangeshuttle
+#     icon: fab fa-steam-square
 
 category_archive_path: "/categories/#"
 
