@@ -20,4 +20,3 @@ In Skeeter's Grid, not all bugs are bad!
 * Replayable: Randomly shuffled boards with stats recorded for every variation.
 * Addictive: Bonus achievements for using every circuit on the board. Or just burn through if that's your preference. It's up to you.
 * Collect: Gather up the components you'll need to rebuild the other bots and secure the grid.
-* Organic: Dynamically generated music augmented by by player interaction. Can't record this soundtrack!
