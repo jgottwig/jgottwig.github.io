@@ -19,4 +19,4 @@ From here on out, I imagine I'll bounce between writing, interactive fiction, an
 
 ![Skiing with my son](images/atg_skiing.jpg)
 
-Note that Strange Shuttle is also a LLC registered in the state of Maryland. This site serves as my personal site, but any information associated with Skeeter's Grid is under the purview of the Strange Shuttle LLC.
+Note that Strange Shuttle is also a LLC registered in the state of Maryland. This site serves as my personal site, but any information associated with Skeeter's Grid is under the purview of the Strange Shuttle LLC. This LLC is new and still in the process of being set up. More information is incoming.
