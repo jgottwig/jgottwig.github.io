@@ -12,11 +12,10 @@ permalink: /games/skeeters-grid/
 ---
 The grid is no longer safe!
 
-Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you ascend from board to board, each of increasing complexity and variation. Rescue other bots, the guardians of the grid, on your hunt for your home board and whatever malevolent virus is corrupting the system.
-
-In Skeeter's Grid, not all bugs are bad!
+Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from board to board, each of increasing complexity and variation. Revive other robots, the guardians of the grid, on your hunt for your home board and whatever malevolent program is corrupting the system.
 
 ### Key Features (in development [see changelog](/games/skeeters-grid-changelog/))
-* Randomly shuffled boards with stats recorded for every variation.
-* Bonus achievements for using every circuit on the board. Or just burn through if that's your preference. It's up to you.
+* Randomly shuffled boards with statistics recorded for every variation.
+* Bonus achievements for using every circuit on the board. Or just speed-run through if that's your preference. It's up to you.
+* Original ambient / chill soundtrack subtly evolves as Skeet moves from board to board. 
 * Gather up the components you'll need to rebuild the other bots and secure the grid.
