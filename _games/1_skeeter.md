@@ -10,8 +10,8 @@ permalink: /games/skeeters-grid/
 ---
 *In Active Development*
 ---
-Wishlist Skeeter's Grid on [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)
----
+*Wishlist Skeeter's Grid on [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+
 The grid is no longer safe!
 
 Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from board to board, each of increasing complexity and variation. Revive other robots, the guardians of the grid, on your hunt for your home board and whatever malevolent program is corrupting the system.
