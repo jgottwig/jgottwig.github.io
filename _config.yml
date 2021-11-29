@@ -99,7 +99,7 @@ footer_links:
 #     url: https://strangeshuttle.itch.io/
 #     icon: fab fa-itch-io
   - title: Steam
-    url: https://store.steampowered.com/app/1773440/Skeeters_Grid/
+    url: https://store.steampowered.com/publisher/strangeshuttle/
     icon: fab fa-steam-square
 
 category_archive_path: "/categories/#"
