@@ -90,6 +90,9 @@ author:
   - title: Discord
     url: https://discord.gg/Au9RuvGh
     icon: fab fa-discord
+  - title: Steam
+    url: https://store.steampowered.com/publisher/strangeshuttle/
+    icon: fab fa-steam-square
 #   - title: Itch.io
 #     url: https://strangeshuttle.itch.io/
 #     icon: fab fa-itch-io
