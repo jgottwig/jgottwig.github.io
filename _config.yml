@@ -93,6 +93,9 @@ author:
   - title: Steam
     url: https://store.steampowered.com/publisher/strangeshuttle/
     icon: fab fa-steam-square
+  - title: GameJolt
+    url: https://strangeshuttle.gamejolt.io
+    icon: fas fa-bolt
 #   - title: Itch.io
 #     url: https://strangeshuttle.itch.io/
 #     icon: fab fa-itch-io
@@ -116,6 +119,9 @@ footer_links:
   - title: Discord
     url: https://discord.gg/Au9RuvGh
     icon: fab fa-discord
+  - title: GameJolt
+    url: https://strangeshuttle.gamejolt.io
+    icon: fas fa-bolt
 
 category_archive_path: "/categories/#"
 
