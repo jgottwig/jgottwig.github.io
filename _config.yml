@@ -86,7 +86,7 @@ author:
     icon: fab fa-github-square
   - title: YouTube
     url: https://www.youtube.com/channel/UCd3zfLWJdGdXbyOf0l7Y8Qw
-    icon: fab fa-youtube
+    icon: fab fa-youtube-square
   - title: Discord
     url: https://discord.gg/Au9RuvGh
     icon: fab fa-discord
@@ -109,7 +109,7 @@ footer_links:
     icon: fab fa-steam-square
   - title: YouTube
     url: https://www.youtube.com/channel/UCd3zfLWJdGdXbyOf0l7Y8Qw
-    icon: fab fa-youtube
+    icon: fab fa-youtube-square
   - title: Discord
     url: https://discord.gg/Au9RuvGh
     icon: fab fa-discord
