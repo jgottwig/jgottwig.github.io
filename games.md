@@ -1,5 +1,5 @@
 ---
-title: Games I've Made
+title: All About Games, Gaming, and Dev 
 layout: collection
 permalink: /games/
 entries_layout: grid
