@@ -3,7 +3,7 @@ title: "C64 Games: Crossroads"
 categories:
   - games
 image:
-  path: /images/games/crossroads-banner.jpg
+  path: /images/games/crossroads-banner.png
   thumbnail: /images/games/crossroads-thumb.png
   caption: "From Compute! Magazine"
 permalink: /games/c64-crossroads/ 
