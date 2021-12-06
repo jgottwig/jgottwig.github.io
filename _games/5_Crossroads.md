@@ -17,7 +17,7 @@ So, in general, ROMs are just not for me--especially with plenty of new games to
 
 Anyway, Crossroads was a type-in game rather than a piece of software you bought in a box. I had thought it was published in Info magazine, but my brief blast of internet research suggests it was actually found in Compute!
 
-What I remember is this: my dad and typing that program into the C64 line-by-line, checking carefully, but still getting some of it wrong and having to figure out where. I don't remember ever finally getting it working, but I do recall years and years of my brother and I trading turns at the game. And it was a blast!
+What I remember is this: my dad and me trading turns typing the program into the C64 line-by-line, checking carefully, but still getting some of it wrong and having to figure out where. I don't remember ever finally getting it working, but I do recall years and years of my brother and I trading turns at the game. And it was a blast!
 
 Crossroads is a classic run-and-gun through a single-screen maze. On paper, this is nothing special, but  what made Crossroads such fun were all the enemies with great names like Purple Rubberhead, Blue Flea, and Cyan Mashed Potato, each with distinctive attributes. I remember one of these baddies (the Purple Rubberhead, maybe?) being especially hard to get.
 
