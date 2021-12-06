@@ -8,8 +8,9 @@ image:
   caption: "From Compute! Magazine"
 permalink: /games/c64-crossroads/ 
 ---
-An ode to this type-in classic.
+*An ode to this type-in classic.*
 ---
+
 Growing up, my family collected dozens and dozens (and dozens) of Commodore-64 games throughout the years including plenty developed by the AAA studios of the time. And yet, when I reflect, the game I perhaps miss the most is Crossroads. Yes, I I know I can Google up a ROM at any old time, but it's never the same without the old crunchy joysticks and the long boot-times. I'll also admit that I like keeping some things in the past. Sometimes the old magic just isn't there anymore.
 
 So, in general, ROMs are just not for me--especially with plenty of new games to be played.
