@@ -23,3 +23,5 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 * Gather up the components you'll need to rebuild the other bots and secure the grid.
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+
+![Skeeter's Grid Screenshot](images/games/tutorial_5-2.png)
