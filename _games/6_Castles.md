@@ -24,6 +24,6 @@ Anyway, Crystal Castles became my favorite game for a brief era of my life.
 
 Years later, in an ice cream shop, my young son (then about age 6) discovered Crystal Castles in one of those MAME arcade boxes and started playing it. He was terrible (of course), but he and I started trading turns. The game and all its various strategies came back to me. I remembered using the hat to defeat the witch and needing to wait until the caterpillars were digesting gems to roll them over, and I got further than I ever had before, but it didn't have quite the significance as it did when I was younger.
 
-On one of these occasions, probably while I was eating ice cream, my son called me over to the MAME box. He wanted to show me that he'd finally gotten past the "tree level". This was only level two, but in a game so challenging was still quite an accomplishment.
+On one of these occasions, probably while I was eating ice cream, my son called me over to the MAME box. He wanted to show me that he'd finally gotten past the "tree level". This was only level two, but in a game so challenging, this was still quite an accomplishment.
 
 "Nice job, bud," I said. Then I showed him how it was really done.
