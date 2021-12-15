@@ -18,7 +18,7 @@ I suspect Crystal Castles became one of my primary influences when I started mak
 
 But I lost and I lost, and I still played.
 
-Although we'd had the game for years, I spent my earlier C64 years playing other games--Boulder Dash, Crossroads, Marble Madness, etc. My obsession with Crystal Castles came later, and I'm not even sure how. It was just on some 5 1/4 floppy I probably ignored until one day... Maybe it was pirated? I don't remember us ever buying it, and in the early days of the C64, there was plenty of *sharing* going on. These were usually gifted to my dad, who took them begrudgingly and then started to refuse them. Even back then, he found piracy distasteful. This rubbed off on me. Let's just say I largely missed the Limewire craze of my college years.
+Although we'd had the game for years, I spent my earlier C64 years playing other games--Boulder Dash, [Crossroads](/games/c64-crossroads/), Marble Madness, etc. My obsession with Crystal Castles came later, and I'm not even sure how. It was just on some 5 1/4 floppy I probably ignored until one day... Maybe it was pirated? I don't remember us ever buying it, and in the early days of the C64, there was plenty of *sharing* going on. These were usually gifted to my dad, who took them begrudgingly and then started to refuse them. Even back then, he found piracy distasteful. This rubbed off on me. Let's just say I largely missed the Limewire craze of my college years.
 
 Anyway, Crystal Castles became my favorite game for a brief era of my life.
 
