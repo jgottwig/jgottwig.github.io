@@ -12,15 +12,15 @@ permalink: /games/skeeters-grid/
 ---
 *Wishlist Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 
-The grid is no longer safe!
+Chill out on Skeeter's Grid...
 
-Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from board to board, each of increasing complexity and variation. Revive other robots, the guardians of the grid, on your hunt for your home board and whatever malevolent program is corrupting the system.
+Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from board to board, each of increasing complexity and variation. Collect components, remnants of former grid guardians, as you rebuild the system.
 
 ### Key Features (in development [see changelog](/games/skeeters-grid-changelog/))
-* Randomly shuffled boards with statistics recorded for every variation.
+* Dozens of boards, all randomly shuffled, with statistics recorded for every variation.
 * Bonus achievements for using every circuit on the board. Or just speed-run through if that's your preference. It's up to you.
-* Original ambient / chill soundtrack subtly evolves as Skeet moves from board to board. 
-* Gather up the components you'll need to rebuild the other bots and secure the grid.
+* Original ambient / chill soundtrack, which subtly evolves as Skeet moves from board to board and sector to sector. 
+* Collect additional components on repeat play-throughs.
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 
