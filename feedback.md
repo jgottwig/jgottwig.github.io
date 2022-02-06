@@ -12,4 +12,4 @@ The easiest way to contact me or offer general feedback is [Twitter](https://twi
 
 If you have encountered a bug playing Skeeter's Grid, I've set up a [public issue tracker](https://github.com/jgottwig/SkeetersGrid-Issues/issues). Please submit a ticket! I do my best to find and quash all bugs, but I am but a simple solo dev from the back country and can't play through every scenario.
 
-* [public issue tracker](https://github.com/jgottwig/SkeetersGrid-Issues/issues)
+* [Public issue tracker](https://github.com/jgottwig/SkeetersGrid-Issues/issues)
