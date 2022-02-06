@@ -7,4 +7,7 @@ image:
   thumbnail: /images/games/changelog-thumb.png
 permalink: /games/skeeters-grid-changelog/ 
 ---
-This will be updated regularly once the game enters alpha.
+Public issue tracking can be found [here](https://github.com/jgottwig/SkeetersGrid-Issues/issues).
+
+This page be updated regularly once the game enters alpha.
+
