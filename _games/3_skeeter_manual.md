@@ -17,7 +17,13 @@ The general concept of Skeeter's Grid is simple:
 
 Reconnect the data hubs.
 
-Skeet does this by rotating light-cubes and trading light-cubes with null-cubes until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
+These hubs, for the most part, take the form of the data-towers as seen in grid 0.0.0.
+
+| ![data-tower](/images/games/skeet-help/hub.png) |
+|:--:|
+| *data-tower* (example) |
+
+Skeet completes grids by rotating light-cubes and trading light-cubes with null-cubes until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
 | ![null-cube](/images/games/skeet-help/null-cube.png) |
 |:--:|
@@ -28,12 +34,6 @@ Skeet does this by rotating light-cubes and trading light-cubes with null-cubes 
 | *light-cube (example) |
 
 There are often multiple solutions to any grid, but it is possible to use every light-cube (which yields a points bonus and achievement) on even the most complex of grids.
-
-These hubs, for the most part, take the form of the data-towers as seen in grid 0.0.0.
-
-| ![data-tower](/images/games/skeet-help/hub.png) |
-|:--:|
-| *data-tower* (example) |
 
 Because there can sometimes be multiple active hubs in any given grid, the active hub can be identified by a gentle pulsing. Every few pulses, the active hub will also release a spray of sparks
 
