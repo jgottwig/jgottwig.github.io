@@ -23,11 +23,11 @@ These hubs, for the most part, take the form of the data-towers as seen in grid 
 |:--:|
 | example of a *data-tower* |
 
-Skeet completes grids by rotating light-cubes and trading light-cubes with null-cubes until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
+Skeet completes grids by rotating light-cubes and trading light-cubes with null-spaces until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
-| ![null-cube](/images/games/skeet-help/null-cube.png) |
+| ![null-space](/images/games/skeet-help/null-space.png) |
 |:--:|
-| *null-cube* |
+| *null-space* |
 
 | ![light-cube](/images/games/skeet-help/light-cube.png) |
 |:--:|
@@ -57,7 +57,7 @@ If a control is market as contextual, it is not always available.
 
 ![D-Pad](/images/games/skeet-help/gamepad-dpad.png)
 
-Basic move and Skeet skips across the grid. Or, if Skeet is standing on a light-cube and moves into a null-cube, the light-cube will trade places with the null-cube. I did, begrudgingly, add support for analog stick, but d-pad is the intended movement schema.
+Basic move and Skeet skips across the grid. Or, if Skeet is standing on a light-cube and moves into a null-space, the light-cube will trade places with the null-space. I did, begrudgingly, add support for analog stick, but d-pad is the intended movement schema.
 * Contextual? No
 
 ### Rotate
