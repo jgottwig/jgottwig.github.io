@@ -25,7 +25,7 @@ These hubs, for the most part, take the form of the data-towers as seen in grid 
 
 Skeet completes grids by rotating light-cubes and trading light-cubes with null-spaces until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
-| ![null-space](/images/games/skeet-help/null-space.png) |
+| ![null-space](/images/games/skeet-help/null-cube.png) |
 |:--:|
 | *null-space* |
 
