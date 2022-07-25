@@ -10,7 +10,7 @@ permalink: /games/skeeters-grid/
 ---
 *In Active Development*
 ---
-*Early Access coming sooon at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+*Early Access coming soon at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 
 Chill out on Skeeter's Grid...
 
