@@ -19,17 +19,29 @@ Reconnect the data hubs.
 
 Skeet does this by rotating light-cubes and trading light-cubes with null-cubes until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
-![null-cube](/images/games/skeet-help/null-cube.png)
+| ![null-cube](/images/games/skeet-help/null-cube.png) |
+|:--:|
+| *null-cube* |
 
-![light-cube](/images/games/skeet-help/light-cube.png)
+| ![light-cube](/images/games/skeet-help/light-cube.png) |
+|:--:|
+| *light-cube (example) |
 
 There are often multiple solutions to any grid, but it is possible to use every light-cube (which yields a points bonus and achievement) on even the most complex of grids.
 
 These hubs, for the most part, take the form of the data-towers as seen in grid 0.0.0.
 
-![data-tower](/images/games/skeet-help/hub.png)
+| ![data-tower](/images/games/skeet-help/hub.png) |
+|:--:|
+| *data-tower* (example) |
 
 Because there can sometimes be multiple active hubs in any given grid, the active hub can be identified by a gentle pulsing. Every few pulses, the active hub will also release a spray of sparks
+
+Once the grid is completed (and this may require connecting multiple hubs), the elevator will re-active. Return to the elevator (either by skipping or recalling) to continue to the next grid.
+
+| ![elevator](/images/games/skeet-help/elevator.png) |
+|:--:|
+| *elevator* |
 
 Playing the game in *Story / Tutorial* mode should provide the contextual controls needed to understand the game, and thus, is recommended, but one can just as easily use hold the Help key to get a list of available actions. Note that if a control is out-of-context at the time, it will not appear in Help. Contextual actions are noted in the list of controls below. For example, if Skeet isn't standing on an activatable cube, the Activate action will not appear in the list of Help commands, and thus, is out of context.
 
@@ -78,7 +90,7 @@ Some cubes or tools need to be activated. Tap the action button. If a task takes
 
 ### Recall (hold)
 
-![Up Arrow](/images/games/skeet-help/keyboard-up.png)
+![R key](/images/games/skeet-help/keyboard-r.png)
 
 ![North Button](/images/games/skeet-help/gamepad-north.png)
 
