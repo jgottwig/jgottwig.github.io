@@ -4,14 +4,14 @@ categories:
   - games
 image:
   path: /images/games/skeeters-grid-banner.jpg
-  thumbnail: /images/games/skeeters-grid-thumb.png
+  thumbnail: /images/games/controls-thumb.png
   caption: "Skeeter's Grid Manual"
 permalink: /games/skeeters-grid-manual/ 
 ---
 Early Access Skeeter's Grid Manual
 ---
+
 *Disclaimer: Because this game is in Early Access, this manual is subject to change. Not only this, but it may be necessary to purge some or all saved data in the event of structural changes. This will happen automatically and will hopefully be minimal.*
----
 
 The general concept of Skeeter's Grid is simple:
 
