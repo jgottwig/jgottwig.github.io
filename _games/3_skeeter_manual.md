@@ -21,7 +21,7 @@ These hubs, for the most part, take the form of the data-towers as seen in grid 
 
 | ![data-tower](/images/games/skeet-help/hub.png) |
 |:--:|
-| *data-tower* (example) |
+| example of a *data-tower* |
 
 Skeet completes grids by rotating light-cubes and trading light-cubes with null-cubes until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
@@ -31,7 +31,7 @@ Skeet completes grids by rotating light-cubes and trading light-cubes with null-
 
 | ![light-cube](/images/games/skeet-help/light-cube.png) |
 |:--:|
-| *light-cube (example) |
+| example of a *light-cube* |
 
 There are often multiple solutions to any grid, but it is possible to use every light-cube (which yields a points bonus and achievement) on even the most complex of grids.
 
