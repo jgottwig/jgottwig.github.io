@@ -20,6 +20,7 @@ Reconnect the data hubs.
 Skeet does this by rotating light-cubes and trading light-cubes with null-cubes until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
 ![null-cube](/images/games/skeet-help/null-cube.png)
+
 ![light-cube](/images/games/skeet-help/light-cube.png)
 
 There are often multiple solutions to any grid, but it is possible to use every light-cube (which yields a points bonus and achievement) on even the most complex of grids.
@@ -34,56 +35,80 @@ Playing the game in *Story / Tutorial* mode should provide the contextual contro
 
 Note that, at this time, only Keyboard and Steamdeck/XBox controls are tested and supported. I did attempt adding support for Playstation and Switch controllers as well, but this functionality is unverified. Touch is completely unsupported, but I hope to add it eventually.
 
-### Controls
+## Controls
+
 If a control is market as contextual, it is not always available.
 
-*Move*
+### Move
+
 ![W A S D](/images/games/skeet-help/keyboard-wasd.png)
+
 ![D-Pad](/images/games/skeet-help/gamepad-dpad.png)
+
 Basic move and Skeet skips across the grid. Or, if Skeet is standing on a light-cube and moves into a null-cube, the light-cube will trade places with the null-cube. I did, begrudgingly, add support for analog stick, but d-pad is the intended movement schema.
 * Contextual? No
 
-*Rotate*
+### Rotate
+
 ![Left and Right Arrow Keys](/images/games/skeet-help/keyboard-lr.png)
+
 ![Triggers](/images/games/skeet-help/gamepad-triggers.png)
+
 When standing over any unlocked light-cube, tap one of the rotate buttons, and the cube will rotate either clockwise or counter-clockwise.
 * Contextual? No
 
-*Jump* (hold)
+### Jump (hold)
+
 ![Hold Down Arrow](/images/games/skeet-help/keyboard-down.png)
+
 ![Hold South Button](/images/games/skeet-help/gamepad-south.png)
+
 For Skeet to jump, hold the action button for a second or so and tap a direction. If nothing in the way, Skeet will jump over any single cube or empty space.
 * Contextual? No
 
-*Activate* (tap)
+### Activate (tap)
+
 ![Down Arrow](/images/games/skeet-help/keyboard-down.png)
+
 ![South Button](/images/games/skeet-help/gamepad-south.png)
+
 Some cubes or tools need to be activated. Tap the action button. If a task takes time to activate, tapping this button will cancel activation in most cases.
 * Contextual? Yes
 * Some Cubes Require: Security Core
 
-*Recall* (hold)
+### Recall (hold)
+
 ![Up Arrow](/images/games/skeet-help/keyboard-up.png)
+
 ![North Button](/images/games/skeet-help/gamepad-north.png)
+
 Once a grid is complete, hold the recall key/button for a quick trip back to the elevator. This option only appears if the elevator is activated.
 * Contextual? Yes
 
-*Swap* (tap)
+### Swap (tap)
+
 ![Down Arrow](/images/games/skeet-help/keyboard-down.png)
+
 ![South Button](/images/games/skeet-help/gamepad-south.png)
+
 Use Skeet's juice to swap two unlocked cubes. Keep in mind that Skeet's juice is a limited resource but can be replenished.
 * Contextual? Yes
 * Requires: Mobility Core
 
-*Help* (hold)
+### Help (hold)
+
 ![H Key](/images/games/skeet-help/keyboard-h.png)
+
 ![West Button](/images/games/skeet-help/gamepad-west.png)
+
 Hold the Help key/button to get a list of possible actions. This list should (generally) be truncated to list only available actions.
 * Contextual? No. 
 
-*Pause*
-![Escape](/images/games/skeet-help/keyboard-esc.png)
-![East Button](/images/games/skeet-help/gamepad-east.png)
-Opens the pause menu, which includes options for restarting a grid, scrolling through collectables, and evaluating completed grids.
-* Contextual? No (but game will not pause during some transitions) 
+### Pause
 
+![Escape](/images/games/skeet-help/keyboard-esc.png)
+
+![East Button](/images/games/skeet-help/gamepad-east.png)
+
+Opens the pause menu, which includes options for restarting a grid, scrolling through collectables, and evaluating completed grids.
+* Contextual? No (but game will not pause during some transitions)
