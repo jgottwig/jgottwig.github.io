@@ -33,7 +33,7 @@ Skeet completes grids by rotating and trading cubes with null-spaces until the *
 
 | ![Cube](/images/games/skeet-help/light-cube.png) |
 |:--:|
-| example of a *A basic cube with two lightway fragments* |
+| example of a *A basic cube with a single lightway fragment* |
 
 There are often multiple solutions to any grid, but it is possible to use every lightway fragments (which yields a points bonus and achievement) on even the most complex of grids.
 
