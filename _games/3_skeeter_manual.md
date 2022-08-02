@@ -19,27 +19,27 @@ The general concept of Skeeter's Grid is simple:
 
 Reconnect the data hubs.
 
-These hubs, for the most part, take the form of the data-towers as seen in grid 0.0.0.
+These hubs, for the most part, take the form of the *Data Towers* as seen below.
 
-| ![data-tower](/images/games/skeet-help/hub.png) |
+| ![Data Tower](/images/games/skeet-help/hub.png) |
 |:--:|
-| example of a *data-tower* |
+| example of a *Data Tower* |
 
-Skeet completes grids by rotating light-cubes and trading light-cubes with null-spaces until the path is completed. Once Skeet has a Mobility Core, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
+Skeet completes grids by rotating and trading cubes with null-spaces until the *Lightway* is completed. Once Skeet has a *Mobility Core*, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
 | ![null-space](/images/games/skeet-help/null-cube.png) |
 |:--:|
 | *null-space* |
 
-| ![light-cube](/images/games/skeet-help/light-cube.png) |
+| ![Cube](/images/games/skeet-help/light-cube.png) |
 |:--:|
-| example of a *light-cube* |
+| example of a *A basic cube with two lightway fragments* |
 
-There are often multiple solutions to any grid, but it is possible to use every light-cube (which yields a points bonus and achievement) on even the most complex of grids.
+There are often multiple solutions to any grid, but it is possible to use every lightway fragments (which yields a points bonus and achievement) on even the most complex of grids.
 
-Because there can sometimes be multiple active hubs in any given grid, the active hub can be identified by a gentle pulsing. Every few pulses, the active hub will also release a spray of sparks
+Because there can sometimes be multiple active hubs in any given grid, the active hub can be identified by a gentle pulsing. Every few pulses, the active hub will also release a spray of sparks, so if you can't quite figure out which hub is active, just look for the spray of sparks.
 
-Once the grid is completed (and this may require connecting multiple hubs), the elevator will re-active. Return to the elevator (either by skipping or recalling) to continue to the next grid.
+Once the Lightway is reconstructed and the grid is considered complete (and this may require connecting multiple hubs), the elevator will re-active. Return to the elevator (either by skipping or recalling) to continue to the next grid.
 
 | ![elevator](/images/games/skeet-help/elevator.png) |
 |:--:|
@@ -59,7 +59,7 @@ If a control is market as contextual, it is not always available.
 
 ![D-Pad](/images/games/skeet-help/gamepad-dpad.png)
 
-Basic move and Skeet skips across the grid. Or, if Skeet is standing on a light-cube and moves into a null-space, the light-cube will trade places with the null-space. I did, begrudgingly, add support for analog stick, but d-pad is the intended movement schema.
+Basic move and Skeet skips across the grid. Or, if Skeet is standing on a cube and moves into a null-space, the cube will trade places with the null-space. I did, begrudgingly, add support for analog stick, but d-pad is the intended movement schema.
 * Contextual? No
 
 ### Rotate
@@ -68,7 +68,7 @@ Basic move and Skeet skips across the grid. Or, if Skeet is standing on a light-
 
 ![Triggers](/images/games/skeet-help/gamepad-triggers.png)
 
-When standing over any unlocked light-cube, tap one of the rotate buttons, and the cube will rotate either clockwise or counter-clockwise.
+When standing over any unlocked cube, tap one of the rotate buttons, and the cube will rotate either clockwise or counter-clockwise.
 * Contextual? No
 
 ### Jump (hold)
