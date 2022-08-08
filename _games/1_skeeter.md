@@ -16,9 +16,11 @@ Chill out on Skeeter's Grid...
 Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from grid to grid, each of increasing complexity and variation. Augment your own functionality and collect components, remnants of former grid guardians, as you rebuild each system, with the chance of additional components spawning during replays.
 
 ### Key Features
-* Dozens of grids, some quite massive, with a variety of features and statistics recorded for every variation.
+* Dozens of grids, some quite massive, with a wide variety of cubes and functionalities.
+* Statistics recorded for solving every grid variation.
 * Bonus achievements for using every circuit on the board. Or just speed-run through if that's your preference. It's up to you.
-* Original ambient / chill soundtrack, which subtly evolves as Skeet moves between grids. 
+* Original ambient / chill soundtrack, which subtly evolves as Skeet moves between grids.
+* Full Steam Deck and gamepad support in addition to keyboard (WASD + arrow keys).
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 
