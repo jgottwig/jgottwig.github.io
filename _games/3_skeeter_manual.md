@@ -25,6 +25,12 @@ These hubs, for the most part, take the form of the *Data Towers* as seen below.
 |:--:|
 | example of a *Data Tower* |
 
+But every grid should also have a *Controller Cube*, which is generally the entry hub for most levels.
+
+| ![Data Tower](/images/games/skeet-help/controller-cube.png) |
+|:--:|
+| *Controller Cube* |
+
 Skeet completes grids by rotating and trading cubes with null-spaces until the *Lightway* is completed. Once Skeet has a *Mobility Core*, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
 | ![null-space](/images/games/skeet-help/null-cube.png) |
