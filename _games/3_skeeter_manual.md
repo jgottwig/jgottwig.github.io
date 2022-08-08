@@ -31,11 +31,13 @@ But every grid should also have a *Controller Cube*, which is generally the entr
 |:--:|
 | *Controller Cube* |
 
-Skeet completes grids by rotating and trading cubes with null-spaces until the *Lightway* is completed. Once Skeet has a *Mobility Core*, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
+Skeet completes grids by rotating and trading cubes with null-spaces until the *Lightway* is completed.
 
 | ![null-space](/images/games/skeet-help/null-cube.png) |
 |:--:|
 | *null-space* |
+
+Once Skeet has a *Mobility Core*, you can also swap most cubes, but this function costs Skeet juice, which can take time to replenish, so hold this tool in reserve.
 
 | ![Cube](/images/games/skeet-help/light-cube.png) |
 |:--:|
