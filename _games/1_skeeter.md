@@ -13,6 +13,8 @@ permalink: /games/skeeters-grid/
 
 Chill out on Skeeter's Grid...
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ur89qu4M7bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from grid to grid, each of increasing complexity and variation. Augment your own functionality and collect components, remnants of former grid guardians, as you rebuild each system, with the chance of additional components spawning during replays.
 
 ### Key Features
@@ -23,6 +25,7 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 * Full Steam Deck and gamepad support in addition to keyboard (WASD + arrow keys).
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+
 *[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
 
 ![Skeeter's Grid Screenshot](/images/games/tutorial_5-2.png)
