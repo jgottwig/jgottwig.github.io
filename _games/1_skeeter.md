@@ -23,5 +23,6 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 * Full Steam Deck and gamepad support in addition to keyboard (WASD + arrow keys).
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+*[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
 
 ![Skeeter's Grid Screenshot](/images/games/tutorial_5-2.png)
