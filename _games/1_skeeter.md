@@ -26,6 +26,9 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 
+*And Itch.io*
+<iframe frameborder="0" src="https://itch.io/embed/1404948" width="552" height="167"><a href="https://strangeshuttle.itch.io/skeeters-grid">Skeeter's Grid by strangeshuttle</a></iframe>
+
 *[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
 
 ![Skeeter's Grid Screenshot](/images/games/ea/0.1.2.png)
