@@ -84,21 +84,12 @@ author:
   - title: GitHub
     url: https://github.com/jgottwig
     icon: fab fa-github-square
-  - title: YouTube
-    url: https://www.youtube.com/channel/UCd3zfLWJdGdXbyOf0l7Y8Qw
-    icon: fab fa-youtube-square
-  - title: Discord
-    url: https://discord.gg/Au9RuvGh
-    icon: fab fa-discord
   - title: Steam
     url: https://store.steampowered.com/publisher/strangeshuttle/
     icon: fab fa-steam-square
   - title: Itch.io
     url: https://strangeshuttle.itch.io/skeeters-grid
     icon: fab fa-itch-io
-  - title: GameJolt
-    url: https://strangeshuttle.gamejolt.io
-    icon: fas fa-bolt
 
 footer_links:
   - title: Twitter
@@ -116,9 +107,6 @@ footer_links:
   - title: YouTube
     url: https://www.youtube.com/channel/UCd3zfLWJdGdXbyOf0l7Y8Qw
     icon: fab fa-youtube-square
-  - title: Discord
-    url: https://discord.gg/Au9RuvGh
-    icon: fab fa-discord
   - title: GameJolt
     url: https://strangeshuttle.gamejolt.io
     icon: fas fa-bolt
