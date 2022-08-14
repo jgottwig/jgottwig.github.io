@@ -5,7 +5,9 @@ permalink: /feedback/
 image:
   path: /images/games/sep-banner.jpg
 ---
-The easiest way to contact me or offer general feedback is [Twitter](https://twitter.com/jgottwig). I don't tweet often, but I generally check twitter several times each day and will do my best to respond.  I am also trying to get active on [Gamejolt](https://strangeshuttle.gamejolt.io/), but I am still working this into my daily routines.
+If it's about Skeeter's Grid, post something in Steam or Itch.io and/or send me a [tweet](https://twitter.com/jgottwig). General questions/comments can just be tweets or whatever. I'm not terribly active on Twitter, but I do check regularly.
 
+* [Steam Community](https://steamcommunity.com/app/1773440/discussions/0/)
+* [Itch.io](https://strangeshuttle.itch.io/skeeters-grid)
 * [Twitter](https://twitter.com/jgottwig)
 * [Gamejolt](https://strangeshuttle.gamejolt.io/)
