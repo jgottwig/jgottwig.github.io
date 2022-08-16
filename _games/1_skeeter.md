@@ -8,7 +8,7 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-*Early Access coming soon at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+*In Early Access at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/) and [Itch](https://strangeshuttle.itch.io/skeeters-grid)*
 ---
 
 Chill out on Skeeter's Grid...
