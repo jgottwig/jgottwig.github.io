@@ -8,7 +8,7 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-*In Early Access at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/) and [Itch](https://strangeshuttle.itch.io/skeeters-grid)*
+*In Early Access at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/), [Itch](https://strangeshuttle.itch.io/skeeters-grid), and Humble (coming soon)!*
 ---
 
 Chill out on Skeeter's Grid...
@@ -27,8 +27,10 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 
-*And Itch.io*
+*Itch.io*
 <iframe frameborder="0" src="https://itch.io/embed/1404948" width="552" height="167"><a href="https://strangeshuttle.itch.io/skeeters-grid">Skeeter's Grid by strangeshuttle</a></iframe>
+
+And coming soon to the *Humble* store!
 
 *[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
 
