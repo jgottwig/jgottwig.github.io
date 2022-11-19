@@ -91,12 +91,12 @@ author:
     url: https://strangeshuttle.itch.io/skeeters-grid
     icon: fab fa-itch-io
   - title: Mastodon
-    url: https://c.im/web/@StrangeShuttle
+    url: https://mastodon.gamedev.place/@StrangeShuttle
     icon: fab fa-mastodon
 
 footer_links:
   - title: Mastodon
-    url: https://c.im/web/@StrangeShuttle
+    url: https://mastodon.gamedev.place/@StrangeShuttle
     icon: fab fa-mastodon
   - title: Twitter
     url: https://twitter.com/jgottwig
