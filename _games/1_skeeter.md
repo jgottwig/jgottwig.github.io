@@ -17,8 +17,6 @@ Chill out on Skeeter's Grid...
 
 Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from grid to grid, each of increasing complexity and variation. Collect components as you rebuild each system, with the chance of additional components spawning during replays. Find Skeet's "Cores", and the dynamics of the puzzles change as Skeet progresses through this world of grids.
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/Ur89qu4M7bw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Key Features
 * Dozens of grids, some quite massive, with a wide variety of cubes and functionalities.
 * Statistics recorded for solving every grid variation.
