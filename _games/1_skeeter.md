@@ -29,9 +29,6 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 
 *On the [Humble Store](https://www.humblebundle.com/store/skeeters-grid)*
 
-*Itch.io (where I'm also devlogging):*
-<iframe frameborder="0" src="https://itch.io/embed/1404948" width="552" height="167"><a href="https://strangeshuttle.itch.io/skeeters-grid">Skeeter's Grid by strangeshuttle</a></iframe>
-
 *And the soundtrack is now available on Steam and [Bandcamp](https://strangeshuttle.bandcamp.com/album/skeeters-grid-ost-1)!*
 
 *[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
