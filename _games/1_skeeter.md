@@ -20,6 +20,7 @@ Chill out on Skeeter's Grid...
 
 <iframe style="aspect-ratio: 16 / 9; height: auto; width: 100%"  src="https://www.youtube.com/embed/3OSlEwX0piM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from grid to grid, each of increasing complexity and variation. Collect components as you rebuild each system, with the chance of additional components spawning during replays. Find Skeet's "Cores", and the dynamics of the puzzles change as Skeet progresses through this world of grids.
 
 ### Key Features
@@ -30,9 +31,9 @@ Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move 
 * Full Steam Deck and gamepad support in addition to keyboard (WASD + arrow keys).
 * Seamless transitions between grids with zero loading.
 
-*View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
+*View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*...
 
-*On the [Humble Store](https://www.humblebundle.com/store/skeeters-grid)*
+*And on the [Humble Store](https://www.humblebundle.com/store/skeeters-grid)*!
 
 *And the soundtrack is now available on Steam and [Bandcamp](https://strangeshuttle.bandcamp.com/album/skeeters-grid-ost-1)!*
 
