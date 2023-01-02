@@ -8,11 +8,13 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-*In Early Access at:*
+*In Early Access until April, 2023*
+---
+
+Get Skeeter's Grid in Early Access until April, 2023 (projected) at:
 
 * *[Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 * *[Humble Store](https://www.humblebundle.com/store/skeeters-grid)*
----
 
 Chill out on Skeeter's Grid...
 
