@@ -12,7 +12,6 @@ permalink: /games/skeeters-grid/
 
 * *[Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
 * *[Humble Store](https://www.humblebundle.com/store/skeeters-grid)*
-* *[Itch](https://strangeshuttle.itch.io/skeeters-grid)*
 ---
 
 Chill out on Skeeter's Grid...
