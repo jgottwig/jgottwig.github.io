@@ -16,4 +16,4 @@ If you email Strange Shuttle LLC, your email address and any associated metadata
 In the past, StrangeShuttle.com has used Google Analytics to collect data, but this is no longer the case.
 
 ## Online Stores
-Online stores, where Strange Shuttle games are sold, likely maintain stat and analytics, which Strange Shuttle has some access to. Please refer to privacy policies of those online stores for more information.
+Online stores, where Strange Shuttle games are sold, likely maintain stat and analytics, which Strange Shuttle LLC has some access to. Please refer to privacy policies of those online stores for more information.
