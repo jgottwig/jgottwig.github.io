@@ -23,8 +23,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   The website of J. Matthew Gottwig. I make games. I write fiction. I parent.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.strangeshuttle.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter:
-  username: jgottwig
 
 markdown: kramdown
 
