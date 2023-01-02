@@ -1,9 +1,9 @@
 ---
-layout: post 
+layout: page
 title: Privacy Policy
 permalink: /privacy/
 image:
-  path: /images/alice-banner.jpg
+  path: /images/games/sep-banner.jpg
 ---
 ## Games and Apps
 Strange Shuttle LLC does not collect player data in Skeeter's Grid or any future games. If the game engine, Unity, ever begins collecting data by default (it currently doesn't), Strange Shuttle LLC will attempt to disable this functionality.
