@@ -8,7 +8,12 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-*In Early Access at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/), [Itch](https://strangeshuttle.itch.io/skeeters-grid), and the [Humble Store](https://www.humblebundle.com/store/skeeters-grid)!*
+*In Early Access at:*
+<ul>
+<li>*[Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*</li>
+<li>*[Humble Store](https://www.humblebundle.com/store/skeeters-grid)*</li>
+<li>*[Itch](https://strangeshuttle.itch.io/skeeters-grid)*</li>
+</ul>
 ---
 
 Chill out on Skeeter's Grid...
