@@ -8,7 +8,7 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-*In Early Access until April, 2023*
+*Coming Spring, 2023!*
 ---
 
 Get Skeeter's Grid in Early Access until April, 2023 (projected) at:
