@@ -20,16 +20,19 @@ Chill out on Skeeter's Grid...
 
 <iframe style="aspect-ratio: 16 / 9; height: auto; width: 100%"  src="https://www.youtube.com/embed/3OSlEwX0piM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+You play Skeet, master defragmenter, in this sit-and-chill isometric puzzler. Spin, move, and swap pieces as you restore sectors, each of increasing complexity and variation. Collect cores along the way to improve your functionality, and meet the AIs, who may or may not be benevolent.
 
-Re-connect mixed-up circuits in this 80s-inspired isometric puzzler as you move from grid to grid, each of increasing complexity and variation. Collect components as you rebuild each system, with the chance of additional components spawning during replays. Find Skeet's "Cores", and the dynamics of the puzzles change as Skeet progresses through this world of grids.
+Chill out on Skeeter's Grid!
+
+![Skeet Pose](/images/games/skeeter_pose.png)
 
 ### Key Features
-* Dozens of grids, some quite massive, with a wide variety of cubes and functionalities.
-* Statistics recorded for solving every grid variation.
-* Bonus achievements for using every circuit on the board. Or just speed-run through if that's your preference. It's up to you.
-* Original ambient / chill soundtrack, which subtly evolves as Skeet moves between grids.
-* Full Steam Deck and gamepad support in addition to keyboard (WASD + arrow keys).
-* Seamless transitions between grids with zero loading.
+* Randomly shuffled grids with statistics recorded for every variation.
+* Bonus points and achievements for using every piece on the sector, or just speed-run through if that's your preference. It's up to you.
+* Original ambient soundtrack evolves as Skeet ascends from sector to sector.
+* Collect cores you'll need to augment Skeet's abilities, and learn about other microdaemons along the way.
+* Pick sides in a conflict between two AIs. The story evolves along with your choices.
+* Seamless transitions between sectors with zero loading.
 
 *View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*...
 
