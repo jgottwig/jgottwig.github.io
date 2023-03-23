@@ -18,7 +18,7 @@ Get Skeeter's Grid in Early Access until Spring/Summer, 2023 (projected) at:
 
 Chill out on Skeeter's Grid...
 
-<iframe style="aspect-ratio: 16 / 9; height: auto; width: 100%"  src="https://www.youtube.com/embed/3OSlEwX0piM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16 / 9; height: auto; width: 100%"  src="https://www.youtube.com/embed/QI3U9xQCkJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You play Skeet, master defragmenter, in this sit-and-chill isometric puzzler. Spin, move, and swap pieces as you restore sectors, each of increasing complexity and variation. Collect cores along the way to improve your functionality, and meet the AIs, who may or may not be benevolent.
 
