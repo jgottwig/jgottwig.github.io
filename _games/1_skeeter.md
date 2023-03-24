@@ -42,16 +42,19 @@ Chill out on Skeeter's Grid!
 
 *[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.1.2.png)
+![Skeeter's Grid Screenshot](/images/games/ea/1-0.png)
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.0.0.png)
+![Skeeter's Grid Screenshot](/images/games/ea/0-6.png)
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.2.4.png)
+![Skeeter's Grid Screenshot](/images/games/ea/0-1-transition.png)
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.0.2.png)
+![Skeeter's Grid Screenshot](/images/games/ea/1-2.png)
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.0.5.png)
+![Skeeter's Grid Screenshot](/images/games/ea/2-5.png)
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.2.3.png)
+![Skeeter's Grid Screenshot](/images/games/ea/1-5.png)
 
-![Skeeter's Grid Screenshot](/images/games/ea/0.1.4.png)
+![Skeeter's Grid Screenshot](/images/games/ea/3-4.png)
+
+![Skeeter's Grid Screenshot](/images/games/ea/4-2.png)
+
