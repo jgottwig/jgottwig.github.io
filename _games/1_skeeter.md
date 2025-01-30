@@ -8,13 +8,10 @@ image:
   caption: "Skeeter's Grid"
 permalink: /games/skeeters-grid/ 
 ---
-*Coming Spring/Summer, 2023!*
+*In development*
 ---
 
-Get Skeeter's Grid in Early Access until Spring/Summer, 2023 (projected) at:
-
-* *[Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*
-* *[Humble Store](https://www.humblebundle.com/store/skeeters-grid)*
+Get Skeeter's Grid in active development... stay tuned for release details.
 
 Chill out on Skeeter's Grid...
 
@@ -33,12 +30,6 @@ Chill out on Skeeter's Grid!
 * Collect cores you'll need to augment Skeet's abilities, and learn about other microdaemons along the way.
 * Pick sides in a conflict between two AIs. The story evolves along with your choices.
 * Seamless transitions between sectors with zero loading.
-
-*View Skeeter's Grid at [Steam](https://store.steampowered.com/app/1773440/Skeeters_Grid/)*...
-
-*And on the [Humble Store](https://www.humblebundle.com/store/skeeters-grid)*!
-
-*And the soundtrack is now available on Steam and [Bandcamp](https://strangeshuttle.bandcamp.com/album/skeeters-grid-ost-1)!*
 
 *[Game Manual](https://www.strangeshuttle.com/games/skeeters-grid-manual/) (in progress)*
 
