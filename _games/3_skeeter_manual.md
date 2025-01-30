@@ -8,12 +8,10 @@ image:
   caption: "Skeeter's Grid Manual"
 permalink: /games/skeeters-grid-manual/ 
 ---
-Early Access Skeeter's Grid Manual
+Skeeter's Grid Manual (in development)
 ---
 
-*Disclaimer: Because this game is in Early Access, this manual is subject to change. Not only this, but it may be necessary to purge some or all saved data in the event of structural changes. This will happen automatically and will hopefully be minimal.*
-
-*Note: please send comments and bug reports to me at [twitter:jgottwig](https://twitter.com/jgottwig)*
+*because Skeeter's Grid is in active development, details here are subject to change*
 
 The general concept of Skeeter's Grid is simple:
 
